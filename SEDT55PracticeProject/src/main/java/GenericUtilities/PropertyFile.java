@@ -1,5 +1,6 @@
 package GenericUtilities;
 
-public class PropertyFile {
-
+public class PropertyFile
+{
+	//Good morning
 }
