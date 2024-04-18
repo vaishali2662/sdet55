@@ -18,6 +18,7 @@ public class ClickAndHold {
 		Actions a = new Actions(d);
 		a.clickAndHold(ele).pause(2000).perform();
 		a.release().perform();
+		//gfdduihysgyh
 	}
 
 }
